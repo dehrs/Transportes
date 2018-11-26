@@ -1,0 +1,11 @@
+C:\Users\UCL\Downloads\Transporte\Transporte\bin\Debug\netcoreapp2.1\Transporte.deps.json
+C:\Users\UCL\Downloads\Transporte\Transporte\bin\Debug\netcoreapp2.1\Transporte.runtimeconfig.json
+C:\Users\UCL\Downloads\Transporte\Transporte\bin\Debug\netcoreapp2.1\Transporte.runtimeconfig.dev.json
+C:\Users\UCL\Downloads\Transporte\Transporte\bin\Debug\netcoreapp2.1\Transporte.dll
+C:\Users\UCL\Downloads\Transporte\Transporte\bin\Debug\netcoreapp2.1\Transporte.pdb
+C:\Users\UCL\Downloads\Transporte\Transporte\obj\Debug\netcoreapp2.1\Transporte.csprojResolveAssemblyReference.cache
+C:\Users\UCL\Downloads\Transporte\Transporte\obj\Debug\netcoreapp2.1\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\UCL\Downloads\Transporte\Transporte\obj\Debug\netcoreapp2.1\Transporte.AssemblyInfoInputs.cache
+C:\Users\UCL\Downloads\Transporte\Transporte\obj\Debug\netcoreapp2.1\Transporte.AssemblyInfo.cs
+C:\Users\UCL\Downloads\Transporte\Transporte\obj\Debug\netcoreapp2.1\Transporte.dll
+C:\Users\UCL\Downloads\Transporte\Transporte\obj\Debug\netcoreapp2.1\Transporte.pdb
